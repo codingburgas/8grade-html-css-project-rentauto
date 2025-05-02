@@ -8,14 +8,16 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: #f4f4f4;
     color: #333;
-    line-height: 1.6;
+    line-height: 0.1;
 }
 
 header {
     background-color: #b85300;
     color: white;
-    padding: 20px 0;
-    text-align: center;
+    padding: 10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
     position: sticky;
     top: 0;
     z-index: 100;
@@ -24,7 +26,7 @@ header {
 
 header img {
     display: block;
-    margin: 0 auto 1px;
+    margin-left: 0 auto 1px;
 }
 
 nav ul {
