@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<head>
+    <title>Попълни формулияра за да си получиш автомобила</title>
+    <link rel="stylesheet" href="purchase.css">
+</head>
+<body>
+    <header>
+        <h1>Попълни формуляра за да си получиш автомобила</h1>
+    </header>
+
+    <section class="purchase-form">
+        <h2>Детайли за наемането</h2>
+        <form action="confirmation.html" method="POST">
+            <label for="car">Избран автомобил:</label>
+            <input type="text" id="car" name="car" value="Audi RS8" readonly>
+
+            <label for="name">Три имена:</label>
+            <input type="text" id="name" name="name" placeholder="Вашето име" required>
+
+            <label for="email">Имейл адрес:</label>
+            <input type="email" id="email" name="email" placeholder="вашият@имейл.com" required>
+
+            <label for="phone">Телефонен номер:</label>
+            <input type="tel" id="phone" name="phone" placeholder="+359 00 000 0000" required>
+
+            <label for="days">Брой дни за наемане:</label>
+            <input type="number" id="days" name="days" min="1" placeholder="Въведете брой дни" required>
+
+            <label for="pickup">Дата на взимане:</label>
+            <input type="date" id="pickup" name="pickup" required>
+
+            <button type="submit">Потвърди наемането</button>
+        </form>
+    </section>
+
+    <footer>
+        <h2>За нас</h2>
+        <p>&copy;Ние сме водеща компания за коли под наем, предлагаща широка гама от превозни средства, които да отговарят на вашите нужди.</p>
+    </footer>
+</body>
+</html>

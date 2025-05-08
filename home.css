@@ -22,8 +22,6 @@ header {
     box-shadow: 0 2px 5px rgba(0,0,0,0.2);
 }
 
-
-
 nav ul {
     list-style: none;
     display: flex;
@@ -90,9 +88,6 @@ section {
     transform: translateY(-5px);
     box-shadow: 0 8px 16px rgba(0,0,0,0.2);
 }
-
-
-
 
 .car a {
     text-decoration: none;
