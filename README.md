@@ -68,9 +68,9 @@ Email: VDVelikov24@codingburgas.bg
 <h2>📁Documentation</h2>    
 <hr>
  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png" width="20" alt="MS Word Logo"> <a href="">Documentation</a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png" width="20" alt="MS Word Logo"> <a href="https://codingburgas-my.sharepoint.com/:w:/g/personal/itgeorgiev24_codingburgas_bg/EU2Wv98Teg5HtdpSmyEaqLgBUdA1E3Muf0vdcbjmPVGuPg?wdOrigin=TEAMS-MAGLEV.p2p_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1747077792686&web=1">Documentation</a>
 <br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_PowerPoint_Logo.png" width="20" alt="MS PowerPoint Logo"> <a href="https://codingburgas-my.sharepoint.com/:p:/g/personal/itgeorgiev24_codingburgas_bg/EeHfh8nWJqVFuYomrSZx2yABWKDCaFK60njXfRvQn4qz-A?rtime=DHxPSHmR3Ug">Presentation</a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_PowerPoint_Logo.png" width="20" alt="MS PowerPoint Logo"> <a href="https://codingburgas-my.sharepoint.com/:p:/g/personal/itgeorgiev24_codingburgas_bg/EXGX2Sqft8BKqwmDPvkloQQB8VD8A_IkyMxKTkIVHyw9Zg?wdOrigin=TEAMS-MAGLEV.p2p_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1747077837144&web=1">Presentation</a>
 <br>
  
 </p>
